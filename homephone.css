@@ -1,0 +1,10 @@
+
+.container-content{
+    
+    height: auto;
+    margin: 10px 10px ;
+    padding: 40px;
+}
+.container-content h2{
+    font-size: 0.8rem;
+}
